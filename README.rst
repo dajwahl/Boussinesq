@@ -13,4 +13,4 @@ Features
 Boussinesq:
     - point load
     - rectangular load
-	- strip load
+    - strip load

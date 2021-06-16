@@ -1,0 +1,18 @@
+Boussinesq
+=======
+
+|PyPi Cheese Shop| |Documentation| |Build Status| |Code Quality| |Test Coverage| |License| |DOI|
+
+A Python library for Geotechnical Earthquake Engineering Models.
+
+Information on the installation and usage can be found in the documentation_.
+
+.. _documentation: https://boussinesq.readthedocs.io/
+
+Features
+--------
+
+Boussinesq:
+    - point load
+    - rectangular load
+	- strip load

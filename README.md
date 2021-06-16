@@ -1,4 +1,0 @@
-Boussinesq
-==========
-
-Stress calculations

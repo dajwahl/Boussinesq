@@ -1,7 +1,7 @@
 Boussinesq
 =======
 
-A Python library for Geotechnical Earthquake Engineering Models.
+Stress calculations
 
 Information on the installation and usage can be found in the documentation_.
 

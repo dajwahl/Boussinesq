@@ -1,5 +1,5 @@
 Boussinesq
-=======
+==========
 
 Stress calculations
 
